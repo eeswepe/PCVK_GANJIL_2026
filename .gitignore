@@ -5,10 +5,20 @@ _stage/
 # Output kernel Kaggle (regenerable)
 week*/output/
 
+# Aset lokal: citra, PDF modul, metadata kernel (tidak dipublikasikan)
+week*/*.jpg
+week*/*.jpeg
+week*/*.png
+week*/*.tif
+week*/*.tiff
+week*/*.pdf
+week*/kernel-metadata.json
+week*/noises/
+
+# Tools pribadi (tidak untuk publik)
+tools/
+
 # Python
 __pycache__/
 .ipynb_checkpoints/
 *.log
-
-# Tools pribadi (tidak untuk publik)
-tools/

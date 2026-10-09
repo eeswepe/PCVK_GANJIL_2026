@@ -1,19 +1,19 @@
-# PCVK — Pengolahan Citra dan Visi Komputer (Ganjil 2026/2027)
+# Singgih Wahyu Permana
 
-Praktikum PCVK, dikerjakan sebagai Kaggle Notebooks.
+- **NIM:** 244107020102
+- **Kelas:** TI 3E
+- **Program Studi:** Teknik Informatika
+- **Institusi:** Politeknik Negeri Malang
+- **Mata Kuliah:** Pengolahan Citra dan Visi Komputer (Ganjil 2026/2027)
 
-**Singgih Wahyu Permana — NIM 244107020102 — TI 3E**
+## Praktikum
 
-Satu folder per minggu:
-
-- `week1/` — Pengantar Citra Digital
-- `week2/` — Representasi dan Karakteristik Citra
-- `week3/` — Operasi Citra Sederhana
-- `week4/` — minggu kuis
-- `week5/` — Histogram, Histogram Equalization, Dithering
-- `week6/` — Filter Spasial
-- `week7/` — Segmentasi Citra dengan Thresholding
-
-Tiap folder berisi modul (PDF), notebook, dan citra yang digunakan.
-
-Citra uji tersedia pada Kaggle Dataset privat `singgihwahyupermana/pcvk-images`.
+| Minggu | Topik | Folder |
+| --- | --- | --- |
+| 1 | Pengantar Citra Digital | [week1](week1/) |
+| 2 | Representasi dan Karakteristik Citra | [week2](week2/) |
+| 3 | Operasi Citra Sederhana | [week3](week3/) |
+| 4 | Kuis | [week4](week4/) |
+| 5 | Histogram, Histogram Equalization, Dithering | [week5](week5/) |
+| 6 | Filter Spasial | [week6](week6/) |
+| 7 | Segmentasi Citra dengan Thresholding | [week7](week7/) |
