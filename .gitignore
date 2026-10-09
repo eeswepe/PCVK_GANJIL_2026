@@ -1,0 +1,18 @@
+# Cache & staging (bukan artefak)
+_cache/
+datasets/_src/
+datasets/_skimage/
+
+# Citra dataset (reproducible via tools/build_dataset.py; sumber kebenaran = Kaggle Dataset)
+datasets/week*/
+
+# Output kernel Kaggle (regenerable)
+notebooks/week*/output/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# Teks ekstraksi modul (turunan dari PDF)
+_modul*.txt

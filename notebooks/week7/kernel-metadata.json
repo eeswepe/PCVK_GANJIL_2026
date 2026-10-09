@@ -1,0 +1,15 @@
+{
+  "id": "singgihwahyupermana/pcvk-week7-segmentasi-thresholding",
+  "title": "PCVK Week7 - Segmentasi & Thresholding",
+  "code_file": "Week7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "singgihwahyupermana/pcvk-images"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

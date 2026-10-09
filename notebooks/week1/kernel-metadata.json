@@ -1,0 +1,15 @@
+{
+  "id": "singgihwahyupermana/pcvk-week1-pengantar-citra-digital",
+  "title": "PCVK Week1 - Pengantar Citra Digital",
+  "code_file": "Week1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "singgihwahyupermana/pcvk-images"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

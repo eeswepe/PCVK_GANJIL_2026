@@ -1,0 +1,15 @@
+{
+  "id": "singgihwahyupermana/pcvk-week3-operasi-citra-sederhana",
+  "title": "PCVK Week3 - Operasi Citra Sederhana",
+  "code_file": "Week3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "singgihwahyupermana/pcvk-images"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

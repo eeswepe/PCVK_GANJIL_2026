@@ -1,0 +1,15 @@
+{
+  "id": "singgihwahyupermana/pcvk-week6-filter-spasial",
+  "title": "PCVK Week6 - Filter Spasial",
+  "code_file": "Week6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "singgihwahyupermana/pcvk-images"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
