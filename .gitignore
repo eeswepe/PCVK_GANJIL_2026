@@ -9,3 +9,6 @@ week*/output/
 __pycache__/
 .ipynb_checkpoints/
 *.log
+
+# Tools pribadi (tidak untuk publik)
+tools/
