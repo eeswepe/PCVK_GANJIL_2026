@@ -2,11 +2,15 @@
 _cache/
 _stage/
 
+# Foto pribadi (KTP/KTM) - jangan pernah di-commit
+_personal/
+
 # Output kernel Kaggle (regenerable)
 week*/output/
 
 # Aset lokal: citra, PDF modul, metadata kernel (tidak dipublikasikan)
-week*/assets/
+week*/assets/*
+!week*/assets/.gitkeep
 week*/**/*.pdf
 week*/kernel-metadata.json
 
