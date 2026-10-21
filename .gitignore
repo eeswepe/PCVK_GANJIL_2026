@@ -7,13 +7,47 @@ week*/output/
 
 # Aset lokal: citra, PDF modul, metadata kernel (tidak dipublikasikan)
 week*/assets/
-week*/*.pdf
+week*/**/*.pdf
 week*/kernel-metadata.json
 
 # Tools pribadi (tidak untuk publik)
 tools/
 
-# Python
+# Python & Virtual Environments
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
 *.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.nbconvert/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary & backup files
+*.tmp
+*.temp
+*.bak
+
+# Catatan internal & personalisasi aset
+NOTES.md
+notes/
